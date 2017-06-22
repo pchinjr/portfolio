@@ -1,4 +1,4 @@
-# Portfolio
+# Paul Chin Jr. Web Developer Portfolio
 Welcome to a list of my personal projects and contributions. I started learning how to program after attending International Nodebots Day 2015 at the [757 Makerspace](http://757makerspace.com) in Norfolk, VA. I received my first Nodebot and was hooked. Since then, I have been on a never ending quest to learn as much as I can about web technologies. 
 
 ---
@@ -63,6 +63,15 @@ Check it out [HERE](http://randomcarry.bitballoon.com)
 
 ---
 ## Dicey
+I knew I wanted to make some sort of game for my next project. This concept came out of a conversation I had with my college roomate. He was alaways desinging games in his spare time and I asked him, what would be the simplest game I could make with random numbers. The result was Dice Wars. This was a huge technical challenge for me. I managed to put together a functioning game with turns and a winner. I had a lot of fun trying to make it more balanced and of course, have plenty of ideas on how to make it better in the future. This was also the first project I presented as a lightning talk at [NorfolkJS](http://www.norfolkjs.org). The talk was about the pure magic of github pull requests. You can read a summary of my talk on my [Medium Blog - Pull Requests are Magic](https://medium.com/@paulchinjr/pull-requests-are-magic-58f24f0e8760)
+
+In this project I learned how to:
+* Wrestle with game state
+* Use a sprite based animation library
+* Put everything I've learned so far into practice
+
+Check it out [HERE](http://pchinjr.github.io/dicey)
+![Dice Wars](http://i.imgur.com/FPjKCbh.png)
 
 ---
 ## Catte Trader
