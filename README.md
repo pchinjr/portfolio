@@ -11,7 +11,7 @@ In this project I learned how to:
 * Host a Static Site
 * Use git and Github
 
-Check it out [HERE](http://ghostbusters.bitballoon.com)
+Check it out [HERE](http://ghostbusters.bitballoon.com)[SOURCE](http://github.com/pchinjr/ghostbusters)
 ![Ghostbusters Homepage](http://i.imgur.com/EA1jVfs.png)
 
 ---
@@ -23,7 +23,7 @@ In this project I learned how to:
 * Use MongoDB
 * Use Jade templates
 
-Check it out [HERE](http://ghostreporter.herokuapp.com)
+Check it out [HERE](http://ghostreporter.herokuapp.com)[SOURCE](http://github.com/pchinjr/ghostreporter)
 ![Ghost Reporter](http://i.imgur.com/gnS6vcp.png)
 
 UPDATED: I wanted to learn some React, so I built a new version with React and [deployed](https://ghostreporter-react-lxuotvklmv.now.sh/) it to Zeit's Now. There is also a [version](https://ghostreact.firebaseapp.com/) built with Firebase.
@@ -46,7 +46,7 @@ In this project I learned how to:
 * Display the results
 * Use JQuery
 
-Check it out [HERE](http://pchinjr.github.io/deletion)
+Check it out [HERE](http://pchinjr.github.io/deletion)[SOURCE](http://github.com/pchinjr/deletion)
 ![Deletion App](http://i.imgur.com/JtCxTzx.png)
 
 ---
@@ -58,7 +58,7 @@ In this project I learned how to:
 * Work with JSON as a data model 
 * Create business logic that fit the user needs
 
-Check it out [HERE](http://randomcarry.bitballoon.com)
+Check it out [HERE](http://randomcarry.bitballoon.com)[SOURCE](http://github.com/pchinjr/randomcarry)
 ![Random Carry](http://i.imgur.com/YPm7S7x.png)
 
 ---
@@ -70,14 +70,45 @@ In this project I learned how to:
 * Use a sprite based animation library
 * Put everything I've learned so far into practice
 
-Check it out [HERE](http://pchinjr.github.io/dicey)
+Check it out [HERE](http://pchinjr.github.io/dicey)[SOURCE](http://github.com/pchinjr/dicey)
 ![Dice Wars](http://i.imgur.com/FPjKCbh.png)
 
 ---
 ## Catte Trader
+This idea came from my initial investigations with the Twilio API. I have always been intrigued by how much could be done with just text over the network. All of the early computer games were text based and I remembered playing Drug Wars on my calculator in high school. Shortly after I began trying to recreate Drug Wars though SMS, everyone told me it was a terrible idea and the DEA would be breaking my door down. That caused me to switch gears and replaced drugs with cats. The result is the beginning of the hardcore world of underground cat trading. This was the first time I created my own API from scratch to fetch current prices from a server. It's still in the very early stages, but my plan is to use Twilio and AWS Lambda Functions to create a full sms game. 
+
+Things I learned in this project: 
+* Twilio API
+* REST endpoints
+
+Check it out [HERE](http://pchinjr.github.io/cattetrader)[SOURCE](http://github.com/pchinjr/cattetrader)
+![Catte Trader](http://i.imgur.com/OAAlO5b.png)
 
 ---
 ## Cage Bot
+Cage Bot is my most ambitious project and has allowed me to give talks at two developer conferences, Hampton Roads DevFest 2016 and Revolution Conf 2017. I wanted to create a physical interaction layer to worship Nicolas Cage, the internet meme. This project has gone through multiple iterations already. It began with a Node script to sweep a servo and blink an LED. Then I added a web interface. Then I moved the node server to a Raspberry Pi to be able to run it without my laptop. After that I added a public webpage that allowed for remote control of the hardware. My latest iteration included Microsoft's Machine Vision API to recognize a photo of Nicolas Cage to unlock the ability of remote control. 
+
+Things I have learned in this project: 
+* Web Sockets with multiple clients joining in a lobby
+* Arduino Hardware - streaming real time data from a sensor to the web front end
+* Raspberry Pi Hardware - runs the local Node server
+* Deploying to Digital Ocean - hosts the public web interface
+* Machine Learning APIs - Microsoft Cognitive Services Machine Vision
+* Streaming binary data and the Node Buffer object - Users capture a photo with their mobile device and stream the data directly to Microsoft for analysis
+* Publishing to npm
+
+Check out a video of it [Here](https://www.youtube.com/watch?v=FxLoW4LnonQ)
+[The source for the local node server](https://github.com/pchinjr/sock-puppet)
+[The source for the Machine learning public side](https://github.com/pchinjr/cage-ai)
+![Cage Bot](http://i.imgur.com/kwNqTuI.jpg)
+![Cage Bot Inferface](http://i.imgur.com/QO4ThPR.png)
+
+## Collaborative Projects and Open Source Contributions
+I have also submitted pull requests to different projects and made sites for other people.
+[Code for Hampton Roads - Bus Tracker](https://github.com/Code4HR/hrt-bus-finder/pull/177)
+[PopUp Robots Site](https://github.com/popuprobots/popuprobots.github.io)
+[International Babywearing Week 2016](https://github.com/pchinjr/ibw2016)
+[Node core contribution at 2016 Collaboration Summit](https://github.com/nodejs/node/pull/9973) - The coolest thing I've ever done. 
 
 ---
 ## Acknowledgements
