@@ -105,10 +105,11 @@ Check out a video of it [Here](https://www.youtube.com/watch?v=FxLoW4LnonQ)
 
 ## Collaborative Projects and Open Source Contributions
 I have also submitted pull requests to different projects and made sites for other people.
-[Code for Hampton Roads - Bus Tracker](https://github.com/Code4HR/hrt-bus-finder/pull/177)
-[PopUp Robots Site](https://github.com/popuprobots/popuprobots.github.io)
-[International Babywearing Week 2016](https://github.com/pchinjr/ibw2016)
-[Node core contribution at 2016 Collaboration Summit](https://github.com/nodejs/node/pull/9973) - The coolest thing I've ever done. 
+
+* [Code for Hampton Roads - Bus Tracker](https://github.com/Code4HR/hrt-bus-finder/pull/177)
+* [PopUp Robots Site](https://github.com/popuprobots/popuprobots.github.io)
+* [International Babywearing Week 2016](https://github.com/pchinjr/ibw2016)
+* [Node core contribution at 2016 Collaboration Summit](https://github.com/nodejs/node/pull/9973) - The coolest thing I've ever done. 
 
 ---
 ## Acknowledgements
